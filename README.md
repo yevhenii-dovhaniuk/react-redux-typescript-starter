@@ -1,1 +1,1 @@
-# react-redux-typescript-starter
+# React Redux Typescript Node
